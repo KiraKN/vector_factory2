@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Личный кабинет</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="image/logoA.png">
+    <link rel="icon" href="logoA.png">
     <script src="script.js"></script>
 </head>
 <body>
@@ -77,7 +77,7 @@
     ?>
     <header class="header">
         <div class="logo-container">
-            <img src="image/logoA.png" alt="Логотип" class="logo-img">
+            <img src="logoA.png" alt="Логотип" class="logo-img">
             <span class="logo-text">Личный кабинет</span>
         </div>
         <nav class="nav-menu">
@@ -210,7 +210,7 @@
     <footer class="footer">
         <div class="footer-content">
             <div class="footer-logo">
-                <img src="image/logoA.png" alt="Логотип" class="logo-img">
+                <img src="logoA.png" alt="Логотип" class="logo-img">
                 <span>ВЕКТОР</span>
             </div>
             <div class="footer-contacts">
