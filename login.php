@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Вход | Вектор</title>
-    <link rel="icon" href="image/logoA.png">
+    <link rel="icon" href="logoA.png">
 </head>
 <body>
     <header class="header">
         <div class="logo-container">
-            <img src="image/logoA.png" alt="Логотип компании Вектор" class="logo-img">
+            <img src="logoA.png" alt="Логотип компании Вектор" class="logo-img">
             <h1 class="logo-text">Вход</h1>
         </div>
         <nav class="nav-menu">
@@ -59,7 +59,7 @@
     <footer class="footer">
         <div class="footer-content">
             <div class="footer-logo">
-                <img src="image/logoA.png" alt="Логотип Вектор" class="logo-img">
+                <img src="logoA.png" alt="Логотип Вектор" class="logo-img">
                 <span>ВЕКТОР</span>
             </div>
             <nav class="footer-nav">
